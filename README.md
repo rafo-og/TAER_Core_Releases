@@ -1,1 +1,1 @@
-"# TAER_Core_Releases" 
+# TAER_Core_Releases
